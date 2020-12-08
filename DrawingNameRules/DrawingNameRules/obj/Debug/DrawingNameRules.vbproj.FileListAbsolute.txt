@@ -1,0 +1,14 @@
+D:\Demo\3DRefData\SharedContent\Custom Symbols\NameRules\DrawingNameRules.dll
+D:\Demo\3DRefData\SharedContent\Custom Symbols\NameRules\DrawingNameRules.pdb
+D:\OneDrive\OneDrive - Hexagon\Product\MrGeng_NameRule\DrawingNameRules\DrawingNameRules_DBQ\obj\Debug\DrawingNameRules.vbprojAssemblyReference.cache
+D:\OneDrive\OneDrive - Hexagon\Product\MrGeng_NameRule\DrawingNameRules\DrawingNameRules_DBQ\obj\Debug\DrawingNameRules.Resources.resources
+D:\OneDrive\OneDrive - Hexagon\Product\MrGeng_NameRule\DrawingNameRules\DrawingNameRules_DBQ\obj\Debug\DrawingNameRules.vbproj.GenerateResource.cache
+D:\OneDrive\OneDrive - Hexagon\Product\MrGeng_NameRule\DrawingNameRules\DrawingNameRules_DBQ\obj\Debug\DrawingNameRules.vbproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - Hexagon\Product\MrGeng_NameRule\DrawingNameRules\DrawingNameRules_DBQ\obj\Debug\DrawingNameRules.dll
+D:\OneDrive\OneDrive - Hexagon\Product\MrGeng_NameRule\DrawingNameRules\DrawingNameRules_DBQ\obj\Debug\DrawingNameRules.pdb
+D:\OneDrive\OneDrive - Hexagon\Product\MrGeng_NameRule\DrawingNameRules\DrawingNameRules\obj\Debug\DrawingNameRules.vbprojAssemblyReference.cache
+D:\OneDrive\OneDrive - Hexagon\Product\MrGeng_NameRule\DrawingNameRules\DrawingNameRules\obj\Debug\DrawingNameRules.Resources.resources
+D:\OneDrive\OneDrive - Hexagon\Product\MrGeng_NameRule\DrawingNameRules\DrawingNameRules\obj\Debug\DrawingNameRules.vbproj.GenerateResource.cache
+D:\OneDrive\OneDrive - Hexagon\Product\MrGeng_NameRule\DrawingNameRules\DrawingNameRules\obj\Debug\DrawingNameRules.vbproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - Hexagon\Product\MrGeng_NameRule\DrawingNameRules\DrawingNameRules\obj\Debug\DrawingNameRules.dll
+D:\OneDrive\OneDrive - Hexagon\Product\MrGeng_NameRule\DrawingNameRules\DrawingNameRules\obj\Debug\DrawingNameRules.pdb
